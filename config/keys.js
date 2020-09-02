@@ -1,3 +1,3 @@
 module.exports = {
-    MongoURI: MONGO
+    MongoURI: MONGO_URI
 }
